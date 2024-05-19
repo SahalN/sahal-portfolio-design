@@ -12,8 +12,8 @@ export default function RootLayout({ children }) {
         </header>
         <main>{children}</main>
         <footer className='mt-4 md:mt-44 text-[#EE7703]'>
-          <div className='flex font-raleway text-8xl md:text-[276px] font-extrabold justify-center items-center md:pb-4'>
-            <h1 className=''>SAHAL</h1>
+          <div className='flex font-raleway text-2xl md:text-[170px] font-extrabold justify-center items-center md:pb-4'>
+            <h1 className=''>SAHAL NURDIN</h1>
           </div>
         </footer>
       </body>
